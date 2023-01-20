@@ -1,1 +1,2 @@
-# my first projects in python,java,html,css
+# my first projects in web
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
